@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: rgb(42, 204, 113) */
+    /* background-color: green; */
+    /* background-color: #F00; */
+    /* font-family: 'Open Sans', sans-serif; */
+    /* background-color: rgb(231, 70, 69) */
+}
+
+div {
+    /* width: 100px;
+    height: 100px;
+    background-color: rgb(231, 70, 69);
+    color: white; */
+    /* font-size: 60px; */
+    /* font-weight: 400; */
+    /* margin-top: 20px; */
+    /* margin-left: 20px;
+    margin-bottom: 20px; */
+    /* margin-right: 20px; */
+    /* margin: 20px; */
+    /* margin: 10px 10px 10px 10px (top right bottom left) */
+    /* margin: 10px 10px 10px (top right,left bottom) */
+    /* margin: 10px 10px (top,bottom right,left) */
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* margin-right: 20px; */
+    /* margin: 0 auto; */
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    /* padding-top: 20px; */
+    /* padding: 10px; */
+}
+
+/* 
+.two.three {
+    background-color: crimson
+}
+
+.two {
+    background-color: rgb(52, 152, 217);
+}
+
+.three {
+    background-color: coral;
+}
+
+body div.two#four {
+    background-color: yellowgreen;
+}
+
+div.two#four {
+    background-color: rgb(42, 204, 113);
+} */
+
+/* body {
+    background-color: green;
+} */
+
+/* div {
+    width: 250px;
+}
+
+.one {
+    background-color: rgb(42, 204, 113);
+    padding: 5px;
+    border: 2px solid black;
+    box-sizing: content-box;
+}
+
+.seprate {
+    background-color: #222;
+    height: 50px;
+}
+
+.two {
+    background-color: rgb(52, 152, 217);
+    padding: 5px;
+    border: 2px solid black;
+    box-sizing: border-box;
+} */
+
+div {
+    /* background-color: lightblue; */
+    /* color: green;
+    
+    width: 100px;
+    height: 100px; */
+    /* text-align: center; */
+
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    /* margin-top: 15px; */
+    /* margin-bottom: 20px; */
+    /* margin-right: 30px; */
+
+    /* margin: 0 auto; */
+
+    /* padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px; */
+
+    /* padding: 15px; */
+
+
+
+}
+
+
+/* 
+div h1 {
+ color: red;
+}
+
+
+div h1.head {
+    color: green;
+}
+
+
+div h1.head {
+    color: lightcoral;
+}
+
+div .head {
+    color: blue;
+} */
+
+/* div #headID {
+    color: yellowgreen;
+} */
+
+
+
+
+
+
+
+

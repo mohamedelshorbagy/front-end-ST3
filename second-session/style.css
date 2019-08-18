@@ -1,0 +1,157 @@
+div {
+    /* width: 100px;
+    height: 100px;
+    background-color: rgb(52, 152, 219);
+    margin-left: auto;
+    margin-right: auto; */
+    /* margin: 0 auto; */
+    /* margin-left: 50%;
+    transform: translateX(-50%) */
+}
+
+button {
+    /* margin-right: 50%; */
+    /* margin-left: 50%;
+    transform: translateX(-50%) */
+    /* margin-top: 15px; */
+}
+
+input {
+    /* margin-left: 50%;
+    transform: translateX(-50%) */
+}
+
+/* p {
+    text-align: center;
+} */
+
+body {
+    /* background-color: #333; */
+}
+
+/* .parent {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin: 40px auto;
+    padding: 10px;
+} */
+
+.child {
+    /* width: 50px;
+    height: 50px;
+    background-color: rgb(255, 254, 103); */
+    /* margin-left: auto; */
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    /* bottom: 50%;
+    right: 50%;
+    transform: translate(50%, 50%); */
+    /* right: 10px; */
+    /* bottom: 0px; */
+    /* margin-left: 20px; */
+    /* margin: 0 auto; */
+}
+
+.container {
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    margin: 40px auto;
+    padding: 10px;
+}
+
+.container p {
+    /* text-align: center; */
+}
+
+.parent {
+    /* padding: 5px;
+    border: 5px solid lightcoral;
+    height: 200px;
+    display: flex; */
+    /* flex-direction: row; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+/* 
+.item {
+    margin: 3px;
+    padding: 5px;
+    background-color: rgb(52, 152, 219);
+    text-align: center;
+    color: white;
+}
+
+
+.i1 {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+.i2 {
+    flex-grow: 4;
+}
+
+
+
+.i3 {
+    flex-grow: 1;
+}
+
+.child {
+    margin: 3px;
+    padding: 5px;
+    background-color: rgb(42, 204, 113);
+    text-align: center;
+    color: white;
+
+} */
+
+/* .child {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(231, 70, 69);
+} */
+
+
+/* .child:hover {
+    background-color: rgb(42, 204, 113);
+} */
+
+
+/* img {
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+ */
+
+body {
+    margin: 0;
+}
+
+.background {
+    background-image: 
+    linear-gradient(
+        135deg,
+        rgba(42, 204, 113, 0.5),
+        rgba(0, 255, 0, 0.6)
+    )
+    ,url(img/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%)
+    /* clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%); */
+    /* clip-path: polygon(50% 0%, 0% 100%, 100% 100%); */
+}
